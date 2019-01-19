@@ -1,0 +1,6 @@
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\gjs\gjsmall\home\Home_F$override.class
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\gjs\gjsmall\home\Home_F$1$override.class
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\gjs\gjsmall\home\Home_F$4$override.class
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\gjs\gjsmall\home\Home_F$3$override.class
+CHANGED,C:\Users\Administrator\Desktop\GJSTXDemo0503\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\gjs\gjsmall\home\Home_F$2$override.class

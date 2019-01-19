@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:2:1-163:12
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [homhomlin.lib:ptrrv-library:1.3.0] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\homhomlin.lib\ptrrv-library\1.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.makeramen:roundedimageview:2.2.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml
+permission#com.yuntongxun.commun.permission.RECEIVE_MSG
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:11:5-114
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:11:77-112
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:11:17-76
+permission#com.yuntongxun.commun.permission.INCOMING_CALL
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:12:5-116
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:12:79-114
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:12:17-78
+uses-permission#com.yuntongxun.ecdemo.permission.RECEIVE_MSG
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:14:22-81
+uses-permission#com.yuntongxun.ecdemo.permission.INCOMING_CALL
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:16:5-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:16:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:19:22-63
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:21:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:22:19-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:34:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:34:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:40:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:42:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:42:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:44:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:44:22-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:48:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:48:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:50:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:50:22-71
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:52:5-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:52:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:54:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:54:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:56:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:56:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:58:5-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:58:22-69
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:62:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:62:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:63:5-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:63:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:73:5-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:73:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:75:5-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:75:22-66
+permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:76:5-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:76:17-73
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:77:5-97
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:77:22-78
+uses-permission#android.permission.ACCES_MOCK_LOCATION
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:79:5-94
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:79:22-75
+uses-permission#android.permission.ACCESS_GPS
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:80:5-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:80:22-66
+supports-screens
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:81:5-86:39
+	android:resizeable
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:85:9-34
+	android:largeScreens
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:83:9-36
+	android:anyDensity
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:82:9-34
+	android:normalScreens
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:84:9-38
+	android:smallScreens
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:86:9-36
+uses-feature#android.hardware.location
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:89:5-91:36
+	android:required
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:91:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:90:9-49
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:92:5-94:36
+	android:required
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:94:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:93:9-53
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:95:5-97:36
+	android:required
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:97:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:96:9-57
+application
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:100:5-162:16
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [homhomlin.lib:ptrrv-library:1.3.0] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\homhomlin.lib\ptrrv-library\1.3.0\AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Administrator\Desktop\GJSTXDemo0504\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:105:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:102:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:104:9-45
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:107:9-44
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:103:9-43
+	android:largeHeap
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:106:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:101:9-39
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:108:9-38
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:110:9-112:56
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:111:13-52
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:112:13-53
+activity#com.gjs.gjsmall.splash.SplashUI
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:115:9-123:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:116:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:118:13-122:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:119:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:119:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:121:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:121:27-74
+activity#com.gjs.gjsmall.home.Main_FA
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:124:9-50
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:124:19-47
+activity#com.gjs.gjsmall.home.ExplainActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:125:9-58
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:125:19-55
+activity#com.gjs.gjsmall.splash.GuideUI
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:126:9-52
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:126:19-49
+activity#com.gjs.gjsmall.home.baby.BabyActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:127:9-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:127:19-57
+activity#com.gjs.gjsmall.home.baby.WareActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:128:9-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:128:19-57
+activity#com.gjs.gjsmall.home.ShowBigPictrue
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:129:9-57
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:129:19-54
+activity#com.gjs.gjsmall.home.BuynowActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:130:9-57
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:130:19-54
+activity#com.gjs.gjsmall.user.User_life
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:131:9-52
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:131:19-49
+activity#com.gjs.gjsmall.user.User_opinion
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:132:9-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:132:19-52
+activity#com.gjs.gjsmall.user.HelloSensor
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:133:9-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:133:19-51
+activity#com.gjs.gjsmall.user.login.LoginActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:134:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:134:19-59
+activity#com.gjs.gjsmall.user.login.RegisterActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:135:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:135:19-62
+activity#com.gjs.gjsmall.user.login.SetpasswordActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:136:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:136:19-65
+activity#com.gjs.gjsmall.user.login.IdentifycodeActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:137:9-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:137:19-66
+activity#com.gjs.gjsmall.user.login.RegistersuccessActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:138:9-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:138:19-69
+activity#com.gjs.gjsmall.user.setting.SettingActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:139:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:139:19-63
+activity#com.gjs.gjsmall.home.detail.ActivityHomeList1
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:140:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:140:19-64
+activity#com.gjs.gjsmall.home.points.Point_FA
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:141:9-57
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:141:19-55
+activity#com.gjs.gjsmall.home.cnc.CncActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:142:9-57
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:142:19-55
+activity#com.gjs.gjsmall.home.gjs.GjsShopActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:143:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:143:19-59
+activity#com.gjs.gjsmall.home.map.MapActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:144:9-57
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:144:19-55
+activity#com.gjs.gjsmall.home.baby.GoodsActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:145:9-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:145:19-58
+activity#com.gjs.gjsmall.user.setting.ExitFromSettings
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:146:9-115
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:146:65-113
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:146:19-64
+activity#com.zxing.activity.CaptureActivity
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:149:9-155:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:154:13-60
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:152:13-49
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:151:13-63
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:153:13-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:150:13-62
+service#com.baidu.location.f
+ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:157:9-161:19
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:160:13-38
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:159:13-35
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\GJSTXDemo0504\app\src\main\AndroidManifest.xml:158:13-48

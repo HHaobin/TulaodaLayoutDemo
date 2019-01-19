@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_two_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\point_two_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_fa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\point_fa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\progress_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explain.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_explain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_circle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\progress_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart2_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\cart2_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_guide.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ui_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assortment_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\assortment_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\like_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\like_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_hot_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_grid_hot_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_circle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\progress_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_opinion.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\user_opinion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ptrrv_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ptrrv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_grid_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu_txt.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\top_menu_txt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_guide.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ui_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_tao.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_listview_tao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_root_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\homhomlin.lib\\ptrrv-library\\1.3.0\\res\\layout\\ptrrv_root_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ware_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ware_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setpassword.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_setpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_ware2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_listview_ware2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\fragment_pro_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\top_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_splash.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ui_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ware_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ware_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registersuccess.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_registersuccess.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_praise.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\user_praise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_ware.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_listview_ware.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explain.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_explain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_all_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\cart_all_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pro_type_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\list_pro_type_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buy_now_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\buy_now_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hellosener.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\hellosener.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\goods_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_one_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\point_one_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_0.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\detail_activity_home_list1_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assortment_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\assortment_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_filter1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\detail_activity_home_list1_filter1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart2_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\cart2_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_listview_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\user_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\top_menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_baidu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sc_gridview_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\sc_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\pic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\like_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\like_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ptrrv_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_popwindow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_splash.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ui_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cnc.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_cnc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_three_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\point_three_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_popwindow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_0.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\detail_activity_home_list1_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_all_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\cart_all_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_baidu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\pic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\user_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pro_type_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\list_pro_type_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\top_menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu_txt.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\top_menu_txt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_praise.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\user_praise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\goods_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_grid_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_big_pictrue_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\show_big_pictrue_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_three_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\point_three_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\progress_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ptrrv_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\detail_activity_home_list1_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\home_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\upload_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_ware2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_listview_ware2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\detail_activity_home_list1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\upload_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scale_pic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\scale_pic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_ware.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_listview_ware.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\ptrrv_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registersuccess.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_registersuccess.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\home_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\goods_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\main_fa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_cart.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_listview_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_tao.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_listview_tao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_opinion.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\user_opinion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\main_fa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cnc.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_cnc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_fa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\point_fa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hellosener.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\hellosener.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_stock_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\cart_stock_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_filter1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\detail_activity_home_list1_filter1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\fragment_pro_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\adapter_listview_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\detail_activity_home_list1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buy_now_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\buy_now_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\ptrrv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_identifycode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_identifycode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scale_pic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\scale_pic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\goods_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\top_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\babydetail_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\babydetail_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_b_top_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\item_b_top_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_cart.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_listview_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sc_gridview_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\sc_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog_from_settings.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\exit_dialog_from_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\cart_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptrrv_root_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\homhomlin.lib\\ptrrv-library\\1.3.0\\res\\layout\\ptrrv_root_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_big_pictrue_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\show_big_pictrue_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\babydetail_a.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\babydetail_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_low_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\cart_low_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setpassword.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_setpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_hot_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\adapter_grid_hot_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\cart_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_low_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\cart_low_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_identifycode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\activity_identifycode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_two_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\point_two_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_b_top_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\src\\main\\res\\layout\\item_b_top_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog_from_settings.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\exit_dialog_from_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity_home_list1_1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\detail_activity_home_list1_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_stock_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\cart_stock_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0503\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\debug\\layout\\point_one_f.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\layout\\point_one_f.xml"
+    }
+]

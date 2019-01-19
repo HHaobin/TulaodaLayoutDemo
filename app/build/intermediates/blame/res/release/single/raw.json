@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\raw\\nine_rect.properties",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\raw\\nine_rect.properties"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\raw\\realm_properties",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\raw\\realm_properties"
+    }
+]

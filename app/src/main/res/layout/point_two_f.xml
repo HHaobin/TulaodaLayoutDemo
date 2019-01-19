@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#DADADA"
+              android:orientation="vertical"
+              tools:context=".home.points.Point_FA">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/point_title"
+        android:background="#FAFAFA">
+        <ImageView
+            android:id="@+id/point_back_2"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/setting_back"/>
+        <TextView
+            android:layout_toRightOf="@+id/point_back_2"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="积分换购"
+            android:textSize="18sp"
+            android:textColor="#333333" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:background="#DADADA"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:paddingLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="热门换购"
+            android:textSize="18sp"
+            android:textColor="#333333" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/bg_Gray"/>
+
+    <com.lhh.ptrrv.library.PullToRefreshRecyclerView
+        android:id="@+id/ptrrv"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

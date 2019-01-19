@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jackson-lgpl-0.9.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-lgpl/0.9.5/3ccadc365aa413b72352d1e35bff69449065450f/jackson-lgpl-0.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-lgpl/0.9.5/eecee785e8f6646191c626eb44143c3988835143/jackson-lgpl-0.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

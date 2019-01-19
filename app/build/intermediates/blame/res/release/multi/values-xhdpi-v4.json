@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 6,
+                        "startOffset": 538,
+                        "endColumn": 53,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 42,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 42,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 44,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 44,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 45,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 45,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 44,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 44,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 43,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 43,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 53,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 53,
+                        "endOffset": 773
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="@color/bg_main"
+              tools:context=".user.login.LoginActivity" >
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/title"
+        android:background="#FAFAFA">
+        <ImageView
+            android:id="@+id/registersuccess_setting_back"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/setting_back"/>
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注册成功"
+            android:textSize="18sp"
+            android:textColor="#333333" />
+    </RelativeLayout>
+    <TextView
+        android:drawablePadding="5dp"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/register_success"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="恭喜注册成功"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="您的登录名为*****，请妥善保管好你的帐号"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/success_to_login"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录帐号"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这是服务器返回的信息" />
+</LinearLayout>

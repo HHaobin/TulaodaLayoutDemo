@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_content3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_content3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shuji.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\shuji.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\main_hot_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\main_hot_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\message_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_open_click.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\setting_open_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_5.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg_menu_edit.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\bg_menu_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_home_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_home_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dianqi.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\dianqi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_like_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_like_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_0.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_head1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_head1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_10.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tb_icon_actionbar_refresh_48.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_refresh_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search_voice.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\search_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_11.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_head2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_head2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_account_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_account_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_1.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\diannao.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\diannao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\second_2_collection.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\second_2_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_2.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_bus_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_bus_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_8.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tb_icon_actionbar_setting_48.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_setting_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\setting_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_13.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tb_icon_actionbar_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_expand.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\setting_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg_edit_ware.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\bg_edit_ware.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_7.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_content1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_content1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\user_life.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\user_life.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_content2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_content2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\neiyi.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\neiyi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_like_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_like_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_bus_4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_bus_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tb_icon_more_msg_56.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_more_msg_56.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_discover_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_discover_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_tfaccount_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_tfaccount_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_cart_nm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_cart_nm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_tfaccount_nm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_tfaccount_nm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_6.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search_magnifier.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\search_magnifier.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_bus_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_bus_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shouji.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\shouji.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_more.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_3.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_home_nm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_home_nm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nanzhuang.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\nanzhuang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\yiyong.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\yiyong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_12.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shop_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\shop_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_more.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_close.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\setting_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like_title_product_head3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\like_title_product_head3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_title_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_title_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\main_hot_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\main_hot_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nvxie.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\nvxie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\huazhuang.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\huazhuang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_5.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_bus_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_bus_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_title_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_title_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wanju.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\wanju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\second_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\second_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_discover_nm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_discover_nm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\main_advert.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\main_advert.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_account_nm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_account_nm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guide_cart_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\guide_cart_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nvzhuang.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\nvzhuang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_open.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\setting_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\idea_title_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\idea_title_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_grid_4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_grid_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\yingshi.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\yingshi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_guide_6.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\GJSTXDemo0504\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_6.png"
+    }
+]

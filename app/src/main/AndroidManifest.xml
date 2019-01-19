@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gjs.gjsmall"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+    
+    <uses-sdk android:minSdkVersion="10" />
+    
+    // SDK 权限申明, 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
+    // 和下面的 uses-permission 一起加入到你的 AndroidManifest 文件中。
+    <permission android:name="com.yuntongxun.commun.permission.RECEIVE_MSG" android:protectionLevel="signature"/>
+    <permission android:name="com.yuntongxun.commun.permission.INCOMING_CALL" android:protectionLevel="signature"/>
+    // 接收 SDK 消息广播权限， 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
+    <uses-permission android:name="com.yuntongxun.ecdemo.permission.RECEIVE_MSG" />
+    // 如果没有VOIP功能可以忽略
+    <uses-permission android:name="com.yuntongxun.ecdemo.permission.INCOMING_CALL" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" /> <!-- 震动权限 -->
+
+    <uses-feature android:name="android.hardware.camera" /> <!-- 使用照相机权限 -->
+    <uses-feature android:name="android.hardware.camera.autofocus" /> <!-- 自动聚焦权限 -->
+
+
+    <!-- 允许程序打开网络sockets(必选配置) -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许程序访问有关的网络信息(必选配置) -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许程序访问Wi-Fi网络状态信息(必选配置) -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 允许应用写（非读）用户的外部存储器(必选配置) -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许读取电话的状态(必选配置) -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 允许一个程序获取信息有关当前或最近运行的任务，一个缩略的任务状态，是否活动等等(必选配置) -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- 允许程序录制音频(必选配置) -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 允许应用程序修改全局声音设置的权限 (必选配置)-->
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <!-- 允许使用PowerManager的WakeLocks保持进程在休眠时从屏幕消失(必选配置) -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <!-- 允许请求访问使用照相设备(如果使用视频通话则必选配置) -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+
+    <!--  允许程序连接到已配对的蓝牙设备(非必选,由应用选择是否需要) -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <!-- 允许程序发现和配对蓝牙设备(非必选,由应用选择是否需要)-->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+   <!--  GPS定位权限(非必选，由应用选择是否需要)-->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+   <!--  允许一个程序访问CellID或WiFi热点来获取粗略的位置-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+   <!--  允许一个程序访问精良位置(如GPS)-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+   <!--  允许程序读取用户联系人数据(非必选，由应用选择是否需要)-->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 允许访问振动设备(非必选,由应用选择是否需要)-->
+    <uses-permission android:name="android.permission.VIBRATE" />
+   <!--  允许程序禁用键盘锁(非必选,由应用选择是否需要)-->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 允许一个程序接收到 ACTION_BOOT_COMPLETED广播在系统完成启动-->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 使用定位功能所需权限,demo已集成百度定位SDK,不使用定位功能可去掉以下6项 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+    <permission android:name="android.permission.BAIDU_LOCATION_SERVICE"></permission>
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.ACCES_MOCK_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="false"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.network"
+        android:required="false" />
+
+    <!-- 自定义实现Application -->
+    <application
+        android:name=".UILApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/BaseAppTheme"
+        android:launchMode="standard">
+        <!-- 百度地图开发密钥 -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="5l9jzMDpUXns4iGLMtozyvRv" />
+
+        <!-- Demo主程序路口1 -->
+        <activity
+            android:name=".splash.SplashUI"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".home.Main_FA" />
+        <activity android:name=".home.ExplainActivity" />
+        <activity android:name=".splash.GuideUI" />
+        <activity android:name=".home.baby.BabyActivity" />
+        <activity android:name=".home.baby.WareActivity" />
+        <activity android:name=".home.ShowBigPictrue" />
+        <activity android:name=".home.BuynowActivity" />
+        <activity android:name=".user.User_life" />
+        <activity android:name=".user.User_opinion" />
+        <activity android:name=".user.HelloSensor" />
+        <activity android:name=".user.login.LoginActivity" />
+        <activity android:name=".user.login.RegisterActivity" />
+        <activity android:name=".user.login.SetpasswordActivity" />
+        <activity android:name=".user.login.IdentifycodeActivity" />
+        <activity android:name=".user.login.RegistersuccessActivity" />
+        <activity android:name=".user.setting.SettingActivity" />
+        <activity android:name=".home.detail.ActivityHomeList1" />
+        <activity android:name=".home.points.Point_FA"/>
+        <activity android:name=".home.cnc.CncActivity"/>
+        <activity android:name=".home.gjs.GjsShopActivity"/>
+        <activity android:name=".home.map.MapActivity"/>
+        <activity android:name=".home.baby.GoodsActivity"/>
+        <activity android:name=".user.setting.ExitFromSettings" android:theme="@android:style/Theme.Translucent"/>
+        <!-- 隐藏键盘 -->
+        <!-- 全屏 -->
+        <activity
+            android:name="com.zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <!-- 百度定位服务 -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+	</application>
+</manifest>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:background="@color/white"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="#F2F2F2"
+        android:baselineAligned="false"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="8dp">
+
+        <RelativeLayout
+            android:id="@+id/search_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:background="@drawable/bing_input_edt" >
+            <TextView
+                android:id="@+id/search_edit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_toRightOf="@+id/search_btn"
+                android:background="@drawable/transparent_edittext_bg"
+                android:hint="逛集市附近商品/店铺"
+                android:maxLength="30"
+                android:singleLine="true"
+                android:textColor="#333333"
+                android:textColorHint="@color/gray"
+                android:textSize="@dimen/text_mid_size"
+                android:gravity="center_vertical|left"/>
+            <ImageView
+                android:paddingLeft="10dp"
+                android:id="@+id/search_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/search_btn_bg" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/goods_iv_refresh"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible">
+            <ImageView
+                android:id="@+id/barcode_normal"
+                android:layout_centerHorizontal="true"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:src="@drawable/barcode_normal"
+            />
+            <TextView
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/barcode_normal"
+                android:paddingTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="消息"
+                android:layout_gravity="center"
+                android:textColor="#333333"
+                android:textSize="12dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <ScrollView
+            android:id="@+id/tools_scrlllview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:id="@+id/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" />
+        </ScrollView>
+        <FrameLayout
+            android:id="@+id/goods_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="gone"/>
+        <android.support.v4.view.ViewPager
+            android:id="@+id/goods_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+        />
+    </LinearLayout>
+</LinearLayout>
